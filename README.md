@@ -62,19 +62,6 @@ perf stat -e context-switches,cache-references,cache-misses,cpu-migrations ./pip
 
 ---
 
-## Deliverables (Part B)
-
-- `pipeline.c` source file
-- `performance_results.txt` (generated at runtime)
--  Execution time and throughput printouts for multiple thread counts
--  perf output logs and graphs
--  Report (submitted separately) including:
-  - Workload explanation
-  - Tables/graphs comparing performance at different thread counts
-  - Bottleneck analysis and observations
-
----
-
 ## Learning Outcome
 
 - Understand and implement the producer-consumer paradigm
