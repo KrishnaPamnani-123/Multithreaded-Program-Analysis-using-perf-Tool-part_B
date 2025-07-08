@@ -1,0 +1,17 @@
+Execution Time: 0.001086 seconds
+Throughput: 736648.25 items/sec
+
+ Performance counter stats for './pipeline 8':
+
+                10      context-switches                                                      
+           407,354      cache-references                                                      
+            84,128      cache-misses                     #   20.65% of all cache refs         
+         6,847,653      cycles                                                                
+         3,676,715      instructions                     #    0.54  insn per cycle            
+
+       0.002328569 seconds time elapsed
+
+       0.000814000 seconds user
+       0.001629000 seconds sys
+
+

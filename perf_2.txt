@@ -1,0 +1,17 @@
+Execution Time: 0.001227 seconds
+Throughput: 162999.19 items/sec
+
+ Performance counter stats for './pipeline 2':
+
+                 9      context-switches                                                      
+           222,499      cache-references                                                      
+            85,712      cache-misses                     #   38.52% of all cache refs         
+         4,384,998      cycles                                                                
+         1,963,874      instructions                     #    0.45  insn per cycle            
+
+       0.004261155 seconds time elapsed
+
+       0.000799000 seconds user
+       0.002397000 seconds sys
+
+

@@ -1,0 +1,17 @@
+Execution Time: 0.002673 seconds
+Throughput: 374111.49 items/sec
+
+ Performance counter stats for './pipeline 10':
+
+                13      context-switches                                                      
+           475,428      cache-references                                                      
+           119,397      cache-misses                     #   25.11% of all cache refs         
+        11,611,518      cycles                                                                
+         4,225,016      instructions                     #    0.36  insn per cycle            
+
+       0.005287633 seconds time elapsed
+
+       0.000000000 seconds user
+       0.004524000 seconds sys
+
+

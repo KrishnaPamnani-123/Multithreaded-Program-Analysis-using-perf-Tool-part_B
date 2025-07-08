@@ -1,0 +1,17 @@
+Execution Time: 0.000661 seconds
+Throughput: 605143.72 items/sec
+
+ Performance counter stats for './pipeline 4':
+
+                 8      context-switches                                                      
+           263,027      cache-references                                                      
+            81,584      cache-misses                     #   31.02% of all cache refs         
+         5,941,240      cycles                                                                
+         2,509,095      instructions                     #    0.42  insn per cycle            
+
+       0.002952961 seconds time elapsed
+
+       0.000000000 seconds user
+       0.002839000 seconds sys
+
+

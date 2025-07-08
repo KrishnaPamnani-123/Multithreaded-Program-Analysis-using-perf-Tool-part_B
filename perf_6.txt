@@ -1,0 +1,17 @@
+Execution Time: 0.001450 seconds
+Throughput: 413793.10 items/sec
+
+ Performance counter stats for './pipeline 6':
+
+                 6      context-switches                                                      
+           286,068      cache-references                                                      
+            79,716      cache-misses                     #   27.87% of all cache refs         
+         5,821,187      cycles                                                                
+         3,004,307      instructions                     #    0.52  insn per cycle            
+
+       0.003465072 seconds time elapsed
+
+       0.000735000 seconds user
+       0.001471000 seconds sys
+
+
